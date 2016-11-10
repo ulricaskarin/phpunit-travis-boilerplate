@@ -45,7 +45,7 @@ Read more about **[Composer here](http://culttt.com/2013/01/07/what-is-php-compo
 {
   "name": "VendorName/ProjectName",
   "description": "Short description of package",
-  "keywords": ["PHPUnit, Travis"],
+  "keywords": ["phpUnit, Travis"],
   "license": "MIT",
   "authors": [
     {
