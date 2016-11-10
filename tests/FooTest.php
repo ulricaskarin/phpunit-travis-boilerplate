@@ -8,9 +8,7 @@ class FooTest extends TestCase {
     public function testIsTrue()
     {
         $foo = new Foo;
-
-        // Starting off with a faulty test to assure a faulty travis build.
-        $this->assertFalse($foo->isTrue());
+        $this->assertTrue($foo->isTrue());
     }
 
     public function testIsFalse()
