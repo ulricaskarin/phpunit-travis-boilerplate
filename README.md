@@ -8,8 +8,8 @@ A simple boilerplate for getting PHPunit up and running for your projects. Travi
 * [How to run tests in bash terminal vs PHPStorm IDE](#how-to-run-tests-in-bash-terminal-vs-phpstorm-ide)
 
 ## Installation and automated setup
-1. Clone this repository:  ```git clone https://github.com/ulricaskarin/phpunit-boilerplate.git```  
-2. In terminal: cd to ```phpunit-boilerplate```  
+1. Clone this repository:  ```git clone https://github.com/ulricaskarin/phpunit-travis-boilerplate.git```  
+2. In terminal: cd to folder: ```phpunit-travis-boilerplate```  
 3. Install composer: ```composer install```  
 4. Check further configuration and [instructions on how to run tests](#how-to-run-tests-in-bash-terminal-vs-phpstorm-ide)
 
@@ -45,7 +45,7 @@ Read more about **[Composer here](http://culttt.com/2013/01/07/what-is-php-compo
 {
   "name": "VendorName/ProjectName",
   "description": "Short description of package",
-  "keywords": ["phpUnit, Travis"],
+  "keywords": ["phpunit, Travis"],
   "license": "MIT",
   "authors": [
     {
