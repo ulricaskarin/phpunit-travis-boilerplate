@@ -1,4 +1,4 @@
-#  PHPUnit boilerplate
+#  PHPUnit boilerplate :cherries:
 [![Build Status](https://travis-ci.org/ulricaskarin/phpunit-travis.svg?branch=master)](https://travis-ci.org/ulricaskarin/phpunit-travis-boilerplate)  
 A simple boilerplate for getting PHPunit up and running for your projects. Travis included for continuous integration on GitHub. _Be sure to read the documentation for [PHPUnit](https://phpunit.de/) and [Travis CI](https://travis-ci.org/)._
 
