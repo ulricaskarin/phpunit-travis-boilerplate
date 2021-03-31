@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/ulricaskarin/phpunit-travis.svg?branch=master)](https://travis-ci.org/ulricaskarin/phpunit-travis-boilerplate)  
 A simple boilerplate for getting PHPunit up and running for your projects. Travis included for continuous integration on GitHub. _Be sure to read the documentation for [PHPUnit](https://phpunit.de/) and [Travis CI](https://travis-ci.org/)._
 
-##Table of contents
+## Table of contents
 * [Installation and automated setup](#installation-and-automated-setup)
 * [Manual setup](#manual-setup)
 * [How to run tests in bash terminal vs PHPStorm IDE](#how-to-run-tests-in-bash-terminal-vs-phpstorm-ide)
